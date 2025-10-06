@@ -1,103 +1,96 @@
-import Image from "next/image";
+import Link from "next/link";
+import { formatFullAddress, siteConfig } from "@/lib/siteConfig";
 
 export default function Home() {
-  return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+  const { company, about, services, contact, address } = siteConfig;
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+  return (
+    <>
+      <section className="hero">
+        <div className="container hero__wrapper">
+          <div className="stack">
+            <span className="brand__tagline">Desde {company.foundedIn}</span>
+            <h1 className="hero__title">
+              {company.name}
+            </h1>
+            <p className="hero__subtitle">{company.slogan}</p>
+            <p className="section-subtitle">{about.short}</p>
+            <div className="hero__cta">
+              <Link className="btn btn-primary" href="/contato">
+                Fale com nossa equipe
+              </Link>
+              <Link className="btn btn-outline" href="/sobre">
+                Conheça a Bee Labs
+              </Link>
+            </div>
+          </div>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      </section>
+
+      <section id="sobre">
+        <div className="container stack">
+          <div>
+            <h2 className="section-title">Quem somos</h2>
+            <p className="section-subtitle">
+              {about.detailed[0]}
+            </p>
+          </div>
+          <div className="grid grid--three">
+            {about.values.map((value) => (
+              <article key={value.title} className="card">
+                <h3>{value.title}</h3>
+                <p>{value.description}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section id="servicos">
+        <div className="container">
+          <h2 className="section-title">Nossos Serviços</h2>
+          <p className="section-subtitle">
+            Oferecemos soluções completas em marketing digital e tecnologia, com processos estruturados e foco em resultados mensuráveis para o seu negócio.
+          </p>
+          <div className="grid grid--three">
+            {services.map((service) => (
+              <article key={service.title} className="card">
+                <h3>{service.title}</h3>
+                <p>{service.description}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div className="container callout">
+          <div>
+            <h3>Transparência e profissionalismo em cada projeto</h3>
+            <p>
+              Trabalhamos com processos claros, documentação completa e comunicação transparente para garantir que sua empresa tenha uma presença digital sólida e confiável.
+            </p>
+          </div>
+          <div>
+            <ul className="value-list">
+              <li>
+                <h4>Empresa estabelecida</h4>
+                <p>CNPJ {company.cnpj} · {formatFullAddress(address)}</p>
+              </li>
+              <li>
+                <h4>Suporte dedicado</h4>
+                <p>{contact.supportMessage}</p>
+              </li>
+              <li>
+                <h4>Atendimento direto</h4>
+                <p>
+                  <strong>Telefone:</strong> {contact.phone} · <strong>E-mail:</strong> {contact.email}
+                </p>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </>
   );
 }
