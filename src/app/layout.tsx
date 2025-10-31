@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     template: `%s | ${siteConfig.company.name}`,
   },
   description: siteConfig.about.short,
-  metadataBase: new URL("https://www.martinscom.top"),
+  metadataBase: new URL("https://www.beelabs.com.br"),
   openGraph: {
     title: siteConfig.company.name,
     description: siteConfig.about.short,
