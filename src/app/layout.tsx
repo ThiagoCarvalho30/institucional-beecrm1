@@ -22,20 +22,18 @@ export const metadata: Metadata = {
   },
   description: siteConfig.about.short,
   metadataBase: new URL("https://www.martinscom.top"),
-    // metadataBase: new URL("https://www.beelabs.com.br"),
   openGraph: {
     title: siteConfig.company.name,
     description: siteConfig.about.short,
     locale: "pt_BR",
     siteName: siteConfig.company.name,
     type: "website",
-    url: "https://www.martinscom.top",
     images: [
       {
-        url: "https://www.martinscom.top/images/martinscomerciologo.png",
+        url: "/images/martinscomerciologo.png",
         width: 1200,
         height: 630,
-        alt: siteConfig.company.name,
+        alt: siteConfig.company.logoAlt,
       },
     ],
   },
