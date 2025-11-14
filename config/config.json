@@ -5,9 +5,9 @@
     "footerJuridicalName": "LJ Comércio de Mercadorias Eireli",
     "slogan": "Qualidade, praticidade e variedade para o seu dia a dia.",
     "cnpj": "35.079.539/0001-62",
-    "email": "contato@ljcomercio.com.br",
-    "phone": "+55 (61) 0000-0000",
-    "whatsapp": "https://wa.me/556100000000",
+    "email": "marcusbarreto@ljcomercio.online",
+    "phone": "+55 (11) 4863-3119",
+    "whatsapp": "https://wa.me/551148633119",
     "logoAlt": "Logotipo da LJ Comércio",
     "foundedIn": "2019"
   },
@@ -36,17 +36,17 @@
     ]
   },
   "address": {
-    "street": "Endereço não informado pela Receita",
-    "number": "0",
-    "neighborhood": "Brasília",
-    "city": "Brasília",
-    "state": "DF",
-    "zip": "00000-000",
+    "street": "Rua Paulo de Faria",
+    "number": "146",
+    "neighborhood": "Tucuruvi",
+    "city": "São Paulo",
+    "state": "SP",
+    "zip": "02267-000",
     "country": "Brasil"
   },
   "contact": {
-    "email": "contato@ljcomercio.com.br",
-    "phone": "+55 (61) 0000-0000",
+    "email": "marcusbarreto@ljcomercio.online",
+    "phone": "+55 (11) 4863-3119",
     "serviceHours": "Segunda a sábado, das 8h às 18h",
     "supportMessage": "Conte com nossa equipe sempre que precisar."
   },
@@ -100,11 +100,11 @@
         },
         {
           "title": "6. Direitos do titular",
-          "body": "O titular pode solicitar acesso, correção, anonimização ou exclusão de seus dados pelo e-mail contato@ljcomercio.com.br."
+          "body": "O titular pode solicitar acesso, correção, anonimização ou exclusão de seus dados pelo e-mail marcusbarreto@ljcomercio.online."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para assuntos relacionados à privacidade, entre em contato com nosso Encarregado de Dados pelo e-mail contato@ljcomercio.com.br."
+          "body": "Para assuntos relacionados à privacidade, entre em contato com nosso Encarregado de Dados pelo e-mail marcusbarreto@ljcomercio.online."
         }
       ]
     },
@@ -162,11 +162,11 @@
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "Users may request access, correction, anonymization, or deletion via contato@ljcomercio.com.br."
+          "body": "Users may request access, correction, anonymization, or deletion via marcusbarreto@ljcomercio.online."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For privacy inquiries, contact our Data Protection Officer at contato@ljcomercio.com.br."
+          "body": "For privacy inquiries, contact our Data Protection Officer at marcusbarreto@ljcomercio.online."
         }
       ]
     },
