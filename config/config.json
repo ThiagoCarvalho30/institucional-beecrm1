@@ -1,81 +1,78 @@
 {
   "company": {
-    "name": "LJ Comércio",
-    "footerName": "LJ Comércio",
-    "footerJuridicalName": "LJ Comércio de Mercadorias Eireli",
-    "slogan": "Qualidade, praticidade e variedade para o seu dia a dia.",
-    "cnpj": "35.079.539/0001-62",
-    "email": "marcusbarreto@ljcomercio.online",
-    "phone": "+55 (11) 92174-9772",
-    "whatsapp": "https://wa.me/551148633119",
-    "logoAlt": "Logotipo da LJ Comércio",
+    "name": "Itaperuna Distribuidora de Carnes",
+    "footerName": "Itaperuna Distribuidora",
+    "footerJuridicalName": "Itaperuna Distribuidora de Carnes Eireli",
+    "slogan": "Qualidade e procedência em cada corte.",
+    "cnpj": "34.670.798/0001-09",
+    "email": "contato@itaperunadistribuidora.com.br",
+    "phone": "+55 (22) 0000-0000",
+    "whatsapp": "https://wa.me/552200000000",
+    "logoAlt": "Logotipo da Itaperuna Distribuidora de Carnes",
     "foundedIn": "2019"
   },
   "about": {
-    "short": "A LJ Comércio é uma empresa especializada no comércio varejista de mercadorias em geral, com predominância de produtos alimentícios, atuando como supermercado na região de São Paulo/SP.",
-    "mission": "Oferecer produtos variados com qualidade e preços acessíveis, priorizando um atendimento eficiente e a satisfação de cada cliente.",
-    "vision": "Ser referência no varejo alimentício de São Paulo, garantindo confiança, variedade e praticidade em cada compra.",
+    "short": "A Itaperuna Distribuidora de Carnes é especializada no comércio atacadista de carnes bovinas e suínas, oferecendo cortes selecionados com qualidade e procedência garantida.",
+    "mission": "Fornecer carnes de alta qualidade com confiança, transparência e atendimento eficiente para açougues, mercados, restaurantes e comerciantes da região.",
+    "vision": "Ser referência regional na distribuição de carnes, prezando por excelência, segurança alimentar e relações comerciais duradouras.",
     "values": [
       {
         "title": "Qualidade",
-        "description": "Produtos selecionados com foco em frescor, procedência e excelência."
+        "description": "Cortes bovinos e suínos selecionados com rigor e procedência certificada."
       },
       {
-        "title": "Atendimento",
-        "description": "Equipe dedicada a proporcionar uma experiência de compra ágil e acolhedora."
+        "title": "Confiança",
+        "description": "Relações sólidas com clientes, fornecedores e parceiros comerciais."
       },
       {
-        "title": "Preços Justos",
-        "description": "Compromisso com preços acessíveis para o dia a dia das famílias."
+        "title": "Compromisso",
+        "description": "Pontualidade e responsabilidade em toda a cadeia de distribuição."
       }
     ],
     "detailed": [
-      "A LJ Comércio oferece uma ampla variedade de produtos alimentícios essenciais, desde itens básicos até opções especiais para diferentes perfis de consumo.",
-      "Acreditamos que praticidade e qualidade fazem a diferença na rotina de nossos clientes.",
-      "Trabalhamos com fornecedores de confiança, garantindo segurança, procedência e transparência em todos os produtos que disponibilizamos."
+      "Trabalhamos com carnes bovinas e suínas selecionadas, prezando pela procedência, segurança e qualidade dos produtos distribuídos.",
+      "Nosso compromisso é oferecer soluções adequadas para o comércio varejista e atacadista, entregando cortes que atendem às necessidades de cada cliente.",
+      "Buscamos constantemente aprimorar nossa operação e fortalecer parcerias com frigoríficos e fornecedores certificados."
     ]
   },
   "address": {
-    "street": "Rua Paulo de Faria",
-    "number": "146",
-    "neighborhood": "Tucuruvi",
-    "city": "São Paulo",
-    "state": "SP",
-    "zip": "02267-000",
-    "country": "Brasil"
+    "street": "Rua Albertina de S. Pereira",
+    "number": "67",
+    "neighborhood": "São Matheus",
+    "city": "Itaperuna",
+    "state": "RJ",
+    "zip": "28300-000",
+    "country": "Brasil",
+    "complement": "Casa Baixo"
   },
   "contact": {
-    "email": "marcusbarreto@ljcomercio.online",
-    "phone": "+55 (11) 92174-9772",
-    "serviceHours": "Segunda a sábado, das 8h às 18h",
-    "supportMessage": "Conte com nossa equipe sempre que precisar."
-  },
-  "cta": {
-    "primary": "Fale com nossa equipe",
-    "secondary": "Conheça LJ Comércio"
+    "email": "contato@itaperunadistribuidora.com.br",
+    "phone": "+55 (22) 0000-0000",
+    "serviceHours": "Segunda a sábado, das 7h às 18h",
+    "supportMessage": "Estamos à disposição para atender pedidos, cotações e fornecer suporte ao seu negócio."
   },
   "social": {
-    "facebook": "#",
-    "instagram": "#",
-    "linkedin": "#",
-    "youtube": "#"
+    "facebook": "https://facebook.com/itaperunadistribuidora",
+    "instagram": "https://instagram.com/itaperunadistribuidora",
+    "linkedin": "https://linkedin.com/company/itaperunadistribuidora",
+    "youtube": "https://youtube.com/@itaperunadistribuidora"
   },
   "services": [
     {
-      "title": "Supermercado Completo",
-      "description": "Variedade de produtos para atender todas as necessidades do dia a dia."
+      "title": "Atacado de Carnes Bovinas",
+      "description": "Cortes selecionados de alta qualidade, com procedência e segurança garantidas."
     },
     {
-      "title": "Produtos Alimentícios Essenciais",
-      "description": "Itens básicos e indispensáveis para a rotina das famílias."
+      "title": "Atacado de Carnes Suínas",
+      "description": "Variedade de cortes suínos para abastecer açougues, mercados e restaurantes."
     },
     {
-      "title": "Produtos Frescos",
-      "description": "Frescor garantido em hortifrúti, perecíveis e itens selecionados."
+      "title": "Distribuição Segura",
+      "description": "Logística estruturada para garantir entrega segura e dentro dos padrões sanitários."
     },
     {
-      "title": "Atendimento Ágil",
-      "description": "Atendimento voltado para a praticidade e boa experiência de compra."
+      "title": "Atendimento Comercial Especializado",
+      "description": "Equipe preparada para auxiliar na escolha dos melhores cortes e quantidades para o seu negócio."
     }
   ],
   "legal": {
@@ -84,31 +81,31 @@
       "sections": [
         {
           "title": "1. Introdução",
-          "body": "Esta Política de Privacidade descreve como a LJ Comércio coleta, utiliza e protege os dados pessoais de clientes, parceiros e visitantes de nossos canais digitais."
+          "body": "Esta Política de Privacidade explica como a Itaperuna Distribuidora de Carnes coleta, utiliza e protege os dados pessoais de clientes, parceiros e visitantes."
         },
         {
           "title": "2. Dados coletados",
-          "body": "Coletamos informações fornecidas voluntariamente, como nome, e-mail e telefone, além de dados de navegação para fins estatísticos e de segurança."
+          "body": "Coletamos dados informados voluntariamente, como nome, telefone e e-mail, além de informações de navegação para estatísticas e segurança."
         },
         {
           "title": "3. Uso das informações",
-          "body": "Utilizamos os dados para atendimento, comunicações institucionais, melhoria dos serviços e cumprimento de obrigações legais."
+          "body": "Utilizamos os dados para atendimento, orçamentos, comunicações comerciais e cumprimento de obrigações legais."
         },
         {
           "title": "4. Compartilhamento",
-          "body": "A LJ Comércio não vende dados pessoais. Informações podem ser compartilhadas apenas com fornecedores essenciais, sempre em conformidade com a LGPD."
+          "body": "Não comercializamos dados pessoais. Informações podem ser compartilhadas com parceiros essenciais, sempre seguindo a LGPD."
         },
         {
           "title": "5. Segurança",
-          "body": "Aplicamos medidas técnicas e administrativas para proteger os dados contra acessos não autorizados ou incidentes."
+          "body": "Adotamos medidas adequadas para proteger os dados contra acessos não autorizados e incidentes."
         },
         {
           "title": "6. Direitos do titular",
-          "body": "O titular pode solicitar acesso, correção, anonimização ou exclusão de seus dados pelo e-mail marcusbarreto@ljcomercio.online."
+          "body": "O titular pode solicitar acesso, correção, portabilidade ou exclusão de dados pelo e-mail contato@itaperunadistribuidora.com.br."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para assuntos relacionados à privacidade, entre em contato com nosso Encarregado de Dados pelo e-mail marcusbarreto@ljcomercio.online."
+          "body": "Para dúvidas sobre privacidade, entre em contato com nosso Encarregado de Dados no e-mail contato@itaperunadistribuidora.com.br."
         }
       ]
     },
@@ -117,27 +114,27 @@
       "sections": [
         {
           "title": "1. Aceite dos termos",
-          "body": "Ao utilizar os canais da LJ Comércio, você concorda com estas condições de uso."
+          "body": "Ao acessar os canais da Itaperuna Distribuidora de Carnes, você concorda com estes Termos de Uso."
         },
         {
           "title": "2. Uso adequado",
-          "body": "É proibido utilizar nossos materiais para fins ilícitos, reproduzi-los sem autorização ou comprometer a segurança das aplicações."
+          "body": "É proibido utilizar nossos conteúdos para fins ilícitos, reproduzi-los sem autorização ou comprometer a segurança da plataforma."
         },
         {
           "title": "3. Propriedade intelectual",
-          "body": "Todo conteúdo da LJ Comércio é protegido por direitos autorais."
+          "body": "Todo material exibido pela empresa é protegido por direitos autorais e não pode ser explorado comercialmente sem consentimento prévio."
         },
         {
           "title": "4. Limitação de responsabilidade",
-          "body": "Nos esforçamos para manter as informações atualizadas, mas não garantimos ausência total de erros."
+          "body": "Empenhamos esforços para garantir informações atualizadas, mas podem ocorrer erros ou alterações sem aviso prévio."
         },
         {
           "title": "5. Atualizações",
-          "body": "Estes termos podem ser atualizados a qualquer momento."
+          "body": "Os Termos podem ser atualizados a qualquer momento. Recomendamos revisão periódica."
         },
         {
           "title": "6. Foro",
-          "body": "Fica eleito o foro de São Paulo/SP para resolução de conflitos."
+          "body": "Fica eleito o foro da Comarca de Itaperuna/RJ para resolução de disputas."
         }
       ]
     },
@@ -146,31 +143,31 @@
       "sections": [
         {
           "title": "1. Introduction",
-          "body": "This Privacy Policy explains how LJ Comércio collects, uses, and protects personal data from users and visitors."
+          "body": "This Privacy Policy describes how Itaperuna Distribuidora de Carnes collects, uses, and protects personal data from customers, partners, and visitors."
         },
         {
           "title": "2. Data Collected",
-          "body": "We collect voluntarily provided information such as name, email, and phone, as well as browsing data."
+          "body": "We collect voluntarily provided information such as name, phone, and email, as well as browsing data for statistical and security purposes."
         },
         {
           "title": "3. Use of Information",
-          "body": "Data is used for contact responses, service improvement, communication, and legal compliance."
+          "body": "Data is used for customer service, quotations, communication, and legal compliance."
         },
         {
           "title": "4. Sharing",
-          "body": "We do not sell personal data. Sharing occurs only with essential partners and always in compliance with the LGPD."
+          "body": "We do not sell personal data. Information may be shared only with essential partners in compliance with LGPD."
         },
         {
           "title": "5. Security",
-          "body": "We adopt technical and administrative measures to protect data."
+          "body": "We implement safeguards to protect personal data from unauthorized access and incidents."
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "Users may request access, correction, anonymization, or deletion via marcusbarreto@ljcomercio.online."
+          "body": "Users may request access, correction, portability, or deletion by contacting contato@itaperunadistribuidora.com.br."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For privacy inquiries, contact our Data Protection Officer at marcusbarreto@ljcomercio.online."
+          "body": "For privacy matters, contact our Data Protection Officer at contato@itaperunadistribuidora.com.br."
         }
       ]
     },
@@ -179,27 +176,27 @@
       "sections": [
         {
           "title": "1. Acceptance of Terms",
-          "body": "By accessing LJ Comércio channels, you agree to these terms."
+          "body": "By accessing Itaperuna Distribuidora de Carnes channels, you agree to these Terms of Use."
         },
         {
           "title": "2. Proper Use",
-          "body": "It is prohibited to use our materials unlawfully or compromise platform security."
+          "body": "It is forbidden to use our content for unlawful purposes or to compromise platform security."
         },
         {
           "title": "3. Intellectual Property",
-          "body": "All LJ Comércio content is protected by copyright."
+          "body": "All content is protected by copyright and cannot be commercially exploited without authorization."
         },
         {
           "title": "4. Limitation of Liability",
-          "body": "We strive to ensure accuracy, but we do not guarantee error-free information."
+          "body": "Although we strive for accuracy, occasional errors may occur."
         },
         {
           "title": "5. Updates",
-          "body": "These terms may be updated at any time."
+          "body": "These Terms may be updated at any time."
         },
         {
           "title": "6. Jurisdiction",
-          "body": "The jurisdiction of São Paulo/SP, Brazil is elected for dispute resolution."
+          "body": "The jurisdiction of Itaperuna/RJ, Brazil is elected for dispute resolution."
         }
       ]
     }
