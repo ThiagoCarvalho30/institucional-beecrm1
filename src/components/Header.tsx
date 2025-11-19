@@ -40,7 +40,7 @@ export default function Header() {
         <Link href="/" className="brand" aria-label={siteConfig.company.logoAlt}>
           <Image 
             src="/images/logo.png" 
-            alt="Martins Lemos Comércio Logo" 
+            alt="Logo" 
             width={48} 
             height={48} 
             quality={90}

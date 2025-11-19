@@ -19,14 +19,14 @@ export default function Home() {
             Fale com nossa equipe
           </Link>
           <Link className="btn btn-outline" href="/sobre">
-            Conheça Martins Lemos Comércio 
+            Conheça Mais
           </Link>
         </div>
       </div>
       <div className="hero__image" style={{flex: '0 0 auto'}}>
         <Image 
           src="/images/logo.png" 
-          alt="Martins Lemos Comércio Logo" 
+          alt="Logo" 
           width={300} 
           height={300} 
           priority
