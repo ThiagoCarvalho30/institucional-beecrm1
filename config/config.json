@@ -75,6 +75,12 @@
       "description": "Equipe preparada para orientar na escolha das melhores soluções para seu negócio."
     }
   ],
+  "catalog": {
+    "enabled": true,
+    "title": "Nossos Produtos",
+    "subtitle": "Confira nossa seleção de produtos com qualidade e preços justos",
+    "image": "/images/catalogo.png"
+  },
   "legal": {
     "privacy": {
       "lastUpdated": "7 de outubro de 2025",
