@@ -3,36 +3,36 @@
     "name": "Itaperuna Distribuidora de Carnes",
     "footerName": "Itaperuna Distribuidora",
     "footerJuridicalName": "Itaperuna Distribuidora de Carnes Eireli",
-    "slogan": "Qualidade e procedência em cada corte.",
+    "slogan": "Qualidade e procedência em cada entrega.",
     "cnpj": "34.670.798/0001-09",
     "email": "contato@itaperunadistribuidora.com.br",
     "phone": "+55 (14) 3120-0968",
     "whatsapp": "https://wa.me/552200000000",
-    "logoAlt": "Logotipo da Itaperuna Distribuidora de Carnes",
+    "logoAlt": "Logotipo da Itaperuna Distribuidora",
     "foundedIn": "2019"
   },
   "about": {
-    "short": "A Itaperuna Distribuidora de Carnes é especializada no comércio atacadista de carnes bovinas e suínas, oferecendo cortes selecionados com qualidade e procedência garantida.",
-    "mission": "Fornecer carnes de alta qualidade com confiança, transparência e atendimento eficiente para açougues, mercados, restaurantes e comerciantes da região.",
-    "vision": "Ser referência regional na distribuição de carnes, prezando por excelência, segurança alimentar e relações comerciais duradouras.",
+    "short": "A Itaperuna Distribuidora fornece proteínas selecionadas — de origem animal e vegetal — priorizando qualidade, segurança e confiança para comércio varejista e atacadista.",
+    "mission": "Oferecer produtos alimentícios de procedência confiável, com atendimento eficiente, logística segura e foco nas necessidades de cada cliente.",
+    "vision": "Ser referência regional na distribuição de proteínas, prezando por qualidade, segurança alimentar, inovação e sustentabilidade.",
     "values": [
       {
         "title": "Qualidade",
-        "description": "Cortes bovinos e suínos selecionados com rigor e procedência certificada."
+        "description": "Produtos selecionados com rigor e padrões elevados de controle."
       },
       {
         "title": "Confiança",
-        "description": "Relações sólidas com clientes, fornecedores e parceiros comerciais."
+        "description": "Relações transparentes e duradouras com clientes, fornecedores e parceiros."
       },
       {
         "title": "Compromisso",
-        "description": "Pontualidade e responsabilidade em toda a cadeia de distribuição."
+        "description": "Pontualidade, responsabilidade e respeito em toda a cadeia de distribuição."
       }
     ],
     "detailed": [
-      "Trabalhamos com carnes bovinas e suínas selecionadas, prezando pela procedência, segurança e qualidade dos produtos distribuídos.",
-      "Nosso compromisso é oferecer soluções adequadas para o comércio varejista e atacadista, entregando cortes que atendem às necessidades de cada cliente.",
-      "Buscamos constantemente aprimorar nossa operação e fortalecer parcerias com frigoríficos e fornecedores certificados."
+      "Trabalhamos com proteínas de diferentes origens, priorizando segurança, procedência e seleção criteriosa.",
+      "Nosso foco é atender desde pequenos comércios até grandes operações, oferecendo soluções adequadas para cada demanda.",
+      "Buscamos aprimoramento contínuo e parcerias responsáveis, incluindo linhas alternativas como opções vegetais."
     ]
   },
   "address": {
@@ -49,7 +49,7 @@
     "email": "contato@itaperunadistribuidora.com.br",
     "phone": "+55 (14) 3120-0968",
     "serviceHours": "Segunda a sábado, das 7h às 18h",
-    "supportMessage": "Estamos à disposição para atender pedidos, cotações e fornecer suporte ao seu negócio."
+    "supportMessage": "Estamos à disposição para pedidos, cotações e suporte ao seu negócio."
   },
   "social": {
     "facebook": "#",
@@ -59,20 +59,20 @@
   },
   "services": [
     {
-      "title": "Atacado de Carnes Bovinas",
-      "description": "Cortes selecionados de alta qualidade, com procedência e segurança garantidas."
+      "title": "Atacado de Proteínas",
+      "description": "Linha completa de proteínas selecionadas para abastecer comércio e food service."
     },
     {
-      "title": "Atacado de Carnes Suínas",
-      "description": "Variedade de cortes suínos para abastecer açougues, mercados e restaurantes."
+      "title": "Opções Vegetais",
+      "description": "Alternativas como carne de soja e proteínas vegetais para um portfólio mais completo e moderno."
     },
     {
       "title": "Distribuição Segura",
-      "description": "Logística estruturada para garantir entrega segura e dentro dos padrões sanitários."
+      "description": "Logística estruturada com padrões rigorosos de segurança e conservação."
     },
     {
       "title": "Atendimento Comercial Especializado",
-      "description": "Equipe preparada para auxiliar na escolha dos melhores cortes e quantidades para o seu negócio."
+      "description": "Equipe preparada para orientar na escolha das melhores soluções para seu negócio."
     }
   ],
   "legal": {
@@ -81,31 +81,31 @@
       "sections": [
         {
           "title": "1. Introdução",
-          "body": "Esta Política de Privacidade explica como a Itaperuna Distribuidora de Carnes coleta, utiliza e protege os dados pessoais de clientes, parceiros e visitantes."
+          "body": "Esta Política de Privacidade explica como a Itaperuna Distribuidora coleta, utiliza e protege dados pessoais de clientes, parceiros e visitantes."
         },
         {
           "title": "2. Dados coletados",
-          "body": "Coletamos dados informados voluntariamente, como nome, telefone e e-mail, além de informações de navegação para estatísticas e segurança."
+          "body": "Coletamos dados fornecidos voluntariamente, como nome e e-mail, além de informações de navegação para análises e segurança."
         },
         {
           "title": "3. Uso das informações",
-          "body": "Utilizamos os dados para atendimento, orçamentos, comunicações comerciais e cumprimento de obrigações legais."
+          "body": "Utilizamos os dados para atendimento, cotações, comunicações comerciais e cumprimento de obrigações legais."
         },
         {
           "title": "4. Compartilhamento",
-          "body": "Não comercializamos dados pessoais. Informações podem ser compartilhadas com parceiros essenciais, sempre seguindo a LGPD."
+          "body": "Dados podem ser compartilhados apenas com parceiros essenciais, sempre em conformidade com a LGPD."
         },
         {
           "title": "5. Segurança",
-          "body": "Adotamos medidas adequadas para proteger os dados contra acessos não autorizados e incidentes."
+          "body": "Adotamos medidas técnicas e administrativas para proteger informações contra acessos indevidos."
         },
         {
           "title": "6. Direitos do titular",
-          "body": "O titular pode solicitar acesso, correção, portabilidade ou exclusão de dados pelo e-mail contato@itaperunadistribuidora.com.br."
+          "body": "Você pode solicitar acesso, correção ou exclusão de dados pelo e-mail contato@itaperunadistribuidora.com.br."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para dúvidas sobre privacidade, entre em contato com nosso Encarregado de Dados no e-mail contato@itaperunadistribuidora.com.br."
+          "body": "Dúvidas sobre privacidade podem ser enviadas ao nosso Encarregado de Dados no e-mail informado."
         }
       ]
     },
@@ -114,23 +114,23 @@
       "sections": [
         {
           "title": "1. Aceite dos termos",
-          "body": "Ao acessar os canais da Itaperuna Distribuidora de Carnes, você concorda com estes Termos de Uso."
+          "body": "Ao acessar nossos canais, você concorda com estes Termos de Uso."
         },
         {
           "title": "2. Uso adequado",
-          "body": "É proibido utilizar nossos conteúdos para fins ilícitos, reproduzi-los sem autorização ou comprometer a segurança da plataforma."
+          "body": "É proibido comprometer a segurança da plataforma ou utilizar conteúdos para fins ilícitos."
         },
         {
           "title": "3. Propriedade intelectual",
-          "body": "Todo material exibido pela empresa é protegido por direitos autorais e não pode ser explorado comercialmente sem consentimento prévio."
+          "body": "Conteúdos exibidos são protegidos por direitos autorais e não podem ser reproduzidos sem autorização."
         },
         {
           "title": "4. Limitação de responsabilidade",
-          "body": "Empenhamos esforços para garantir informações atualizadas, mas podem ocorrer erros ou alterações sem aviso prévio."
+          "body": "Buscamos manter informações atualizadas, mas erros podem ocorrer sem aviso prévio."
         },
         {
           "title": "5. Atualizações",
-          "body": "Os Termos podem ser atualizados a qualquer momento. Recomendamos revisão periódica."
+          "body": "Os Termos podem ser alterados a qualquer momento."
         },
         {
           "title": "6. Foro",
@@ -143,31 +143,31 @@
       "sections": [
         {
           "title": "1. Introduction",
-          "body": "This Privacy Policy describes how Itaperuna Distribuidora de Carnes collects, uses, and protects personal data from customers, partners, and visitors."
+          "body": "This Privacy Policy explains how Itaperuna Distribuidora collects, uses, and protects personal data."
         },
         {
           "title": "2. Data Collected",
-          "body": "We collect voluntarily provided information such as name, phone, and email, as well as browsing data for statistical and security purposes."
+          "body": "We collect voluntarily provided data as well as browsing information for analytics and security."
         },
         {
           "title": "3. Use of Information",
-          "body": "Data is used for customer service, quotations, communication, and legal compliance."
+          "body": "Data is used for service, quotations, communication, and legal compliance."
         },
         {
           "title": "4. Sharing",
-          "body": "We do not sell personal data. Information may be shared only with essential partners in compliance with LGPD."
+          "body": "Information may be shared only with essential partners in compliance with LGPD."
         },
         {
           "title": "5. Security",
-          "body": "We implement safeguards to protect personal data from unauthorized access and incidents."
+          "body": "Safeguards are implemented to protect data from unauthorized access."
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "Users may request access, correction, portability, or deletion by contacting contato@itaperunadistribuidora.com.br."
+          "body": "Users may request access, correction or deletion via email."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For privacy matters, contact our Data Protection Officer at contato@itaperunadistribuidora.com.br."
+          "body": "For privacy matters, contact our Data Protection Officer."
         }
       ]
     },
@@ -176,27 +176,27 @@
       "sections": [
         {
           "title": "1. Acceptance of Terms",
-          "body": "By accessing Itaperuna Distribuidora de Carnes channels, you agree to these Terms of Use."
+          "body": "By accessing our channels, you accept these Terms."
         },
         {
           "title": "2. Proper Use",
-          "body": "It is forbidden to use our content for unlawful purposes or to compromise platform security."
+          "body": "Using content for unlawful purposes or compromising security is prohibited."
         },
         {
           "title": "3. Intellectual Property",
-          "body": "All content is protected by copyright and cannot be commercially exploited without authorization."
+          "body": "All materials are protected and cannot be commercially exploited without authorization."
         },
         {
           "title": "4. Limitation of Liability",
-          "body": "Although we strive for accuracy, occasional errors may occur."
+          "body": "We strive for accuracy but errors may occur."
         },
         {
           "title": "5. Updates",
-          "body": "These Terms may be updated at any time."
+          "body": "Terms may be updated periodically."
         },
         {
           "title": "6. Jurisdiction",
-          "body": "The jurisdiction of Itaperuna/RJ, Brazil is elected for dispute resolution."
+          "body": "Jurisdiction of Itaperuna/RJ, Brazil is elected for dispute resolution."
         }
       ]
     }
