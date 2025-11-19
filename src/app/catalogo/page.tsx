@@ -1,7 +1,7 @@
 import { siteConfig } from "@/lib/siteConfig";
 import type { Metadata } from "next";
 import Image from "next/image";
-
+import "@/styles/pages/catalog.css";
 export const metadata: Metadata = {
   title: "Catálogo",
   description: siteConfig.catalog.subtitle,
@@ -14,7 +14,8 @@ export default function CatalogoPage() {
     return null;
   }
 
-  return (
+
+    return (
     <section className="catalog-simple">
       <div className="container">
         <header className="catalog-simple__header">
@@ -29,7 +30,8 @@ export default function CatalogoPage() {
             width={1200}
             height={800}
             priority
-            style={{ width: '100%', height: 'auto' }}
+            style={{ width: "100%", height: "auto" }}
+            className="catalog-simple__img" // { changed code }
           />
         </div>
 

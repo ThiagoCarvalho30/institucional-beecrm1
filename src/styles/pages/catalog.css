@@ -36,12 +36,18 @@
   border-radius: var(--radius-md);
   overflow: hidden;
   padding-inline: var(--spacing-md);
+
+ 
+
 }
 
 .catalog-simple__image img {
   display: block;
   width: 100%;
   height: auto;
+  /* assegura que a imagem respeite o radius do container */
+  display: block;
+  border-radius: inherit;
 }
 
 .catalog-simple__cta {
