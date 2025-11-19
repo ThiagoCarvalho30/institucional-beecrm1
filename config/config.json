@@ -1,55 +1,55 @@
 {
   "company": {
-    "name": "Itaperuna Distribuidora de Carnes",
-    "footerName": "Itaperuna Distribuidora",
-    "footerJuridicalName": "Itaperuna Distribuidora de Carnes Eireli",
-    "slogan": "Qualidade e procedência em cada corte.",
-    "cnpj": "34.670.798/0001-09",
-    "email": "contato@itaperunadistribuidora.com.br",
-    "phone": "+55 (14) 3120-0968",
-    "whatsapp": "https://wa.me/552200000000",
-    "logoAlt": "Logotipo da Itaperuna Distribuidora de Carnes",
+    "name": "Grãos Dourado Distribuidora de Grãos",
+    "footerName": "Grãos Dourado Distribuidora",
+    "footerJuridicalName": "Grãos Dourado Distribuidora de Grãos LTDA",
+    "slogan": "Qualidade e procedência em grãos selecionados.",
+    "cnpj": "34.665.501/0001-09",
+    "email": "contato@graosdourado.online",
+    "phone": "(11) 5194-2713",
+    "whatsapp": "https://wa.me/551151942713",
+    "logoAlt": "Logotipo da Grãos Dourado Distribuidora de Grãos",
     "foundedIn": "2019"
   },
   "about": {
-    "short": "A Itaperuna Distribuidora de Carnes é especializada no comércio atacadista de carnes bovinas e suínas, oferecendo cortes selecionados com qualidade e procedência garantida.",
-    "mission": "Fornecer carnes de alta qualidade com confiança, transparência e atendimento eficiente para açougues, mercados, restaurantes e comerciantes da região.",
-    "vision": "Ser referência regional na distribuição de carnes, prezando por excelência, segurança alimentar e relações comerciais duradouras.",
+    "short": "A Grãos Dourado Distribuidora atua no comércio atacadista de cereais e leguminosas beneficiadas, oferecendo produtos selecionados para abastecimento de mercados, mercearias e comércios locais.",
+    "mission": "Fornecer grãos de qualidade com segurança, preço justo e atendimento eficiente ao setor varejista e atacadista.",
+    "vision": "Ser referência regional na distribuição de cereais e leguminosas, prezando pela confiança e regularidade no abastecimento.",
     "values": [
       {
         "title": "Qualidade",
-        "description": "Cortes bovinos e suínos selecionados com rigor e procedência certificada."
+        "description": "Produtos cuidadosamente selecionados e armazenados de forma adequada."
       },
       {
-        "title": "Confiança",
-        "description": "Relações sólidas com clientes, fornecedores e parceiros comerciais."
+        "title": "Confiabilidade",
+        "description": "Parcerias sólidas com fornecedores e clientes, garantindo entregas consistentes."
       },
       {
         "title": "Compromisso",
-        "description": "Pontualidade e responsabilidade em toda a cadeia de distribuição."
+        "description": "Atuação responsável e comprometida com boas práticas de distribuição."
       }
     ],
     "detailed": [
-      "Trabalhamos com carnes bovinas e suínas selecionadas, prezando pela procedência, segurança e qualidade dos produtos distribuídos.",
-      "Nosso compromisso é oferecer soluções adequadas para o comércio varejista e atacadista, entregando cortes que atendem às necessidades de cada cliente.",
-      "Buscamos constantemente aprimorar nossa operação e fortalecer parcerias com frigoríficos e fornecedores certificados."
+      "Trabalhamos com cereais e leguminosas beneficiados, prezando pela boa procedência e condições adequadas de armazenamento.",
+      "Atendemos mercados, mercearias e comerciantes que necessitam de fornecimento constante e confiável.",
+      "Buscamos manter parcerias com fornecedores certificados e manter uma operação eficiente na distribuição."
     ]
   },
   "address": {
-    "street": "Rua Albertina de S. Pereira",
-    "number": "67",
-    "neighborhood": "São Matheus",
-    "city": "Itaperuna",
-    "state": "RJ",
-    "zip": "28300-000",
+    "street": "Avenida Nossa Senhora de Nazaré",
+    "number": "120 Letra A",
+    "neighborhood": "Centro",
+    "city": "Palmeiras do Tocantins",
+    "state": "TO",
+    "zip": "77913-000",
     "country": "Brasil",
-    "complement": "Casa Baixo"
+    "complement": ""
   },
   "contact": {
-    "email": "contato@itaperunadistribuidora.com.br",
-    "phone": "+55 (14) 3120-0968",
+    "email": "contato@graosdourado.online",
+    "phone": "(11) 5194-2713",
     "serviceHours": "Segunda a sábado, das 7h às 18h",
-    "supportMessage": "Estamos à disposição para atender pedidos, cotações e fornecer suporte ao seu negócio."
+    "supportMessage": "Entre em contato para pedidos, cotações e suporte comercial."
   },
   "social": {
     "facebook": "#",
@@ -59,20 +59,20 @@
   },
   "services": [
     {
-      "title": "Atacado de Carnes Bovinas",
-      "description": "Cortes selecionados de alta qualidade, com procedência e segurança garantidas."
+      "title": "Comércio Atacadista de Cereais",
+      "description": "Venda de cereais selecionados para abastecimento de varejistas e comerciantes."
     },
     {
-      "title": "Atacado de Carnes Suínas",
-      "description": "Variedade de cortes suínos para abastecer açougues, mercados e restaurantes."
+      "title": "Distribuição de Leguminosas",
+      "description": "Linha de leguminosas beneficiadas, prontas para comercialização no varejo."
     },
     {
-      "title": "Distribuição Segura",
-      "description": "Logística estruturada para garantir entrega segura e dentro dos padrões sanitários."
+      "title": "Fracionamento e Acondicionamento",
+      "description": "Produtos fracionados e embalados conforme necessidade do cliente."
     },
     {
-      "title": "Atendimento Comercial Especializado",
-      "description": "Equipe preparada para auxiliar na escolha dos melhores cortes e quantidades para o seu negócio."
+      "title": "Atendimento Comercial",
+      "description": "Suporte para pedidos, informações e orientações sobre produtos."
     }
   ],
   "legal": {
@@ -81,31 +81,31 @@
       "sections": [
         {
           "title": "1. Introdução",
-          "body": "Esta Política de Privacidade explica como a Itaperuna Distribuidora de Carnes coleta, utiliza e protege os dados pessoais de clientes, parceiros e visitantes."
+          "body": "Esta Política de Privacidade explica como a Grãos Dourado Distribuidora coleta, utiliza e protege dados pessoais de clientes e visitantes."
         },
         {
           "title": "2. Dados coletados",
-          "body": "Coletamos dados informados voluntariamente, como nome, telefone e e-mail, além de informações de navegação para estatísticas e segurança."
+          "body": "Coletamos dados como nome, telefone, e-mail e informações de contato fornecidas voluntariamente."
         },
         {
           "title": "3. Uso das informações",
-          "body": "Utilizamos os dados para atendimento, orçamentos, comunicações comerciais e cumprimento de obrigações legais."
+          "body": "Os dados são utilizados para atendimento, cotações e comunicações comerciais."
         },
         {
           "title": "4. Compartilhamento",
-          "body": "Não comercializamos dados pessoais. Informações podem ser compartilhadas com parceiros essenciais, sempre seguindo a LGPD."
+          "body": "Não vendemos dados pessoais. Informações podem ser compartilhadas apenas com parceiros essenciais e conforme a lei."
         },
         {
           "title": "5. Segurança",
-          "body": "Adotamos medidas adequadas para proteger os dados contra acessos não autorizados e incidentes."
+          "body": "Adotamos medidas adequadas para proteger informações contra acessos não autorizados."
         },
         {
           "title": "6. Direitos do titular",
-          "body": "O titular pode solicitar acesso, correção, portabilidade ou exclusão de dados pelo e-mail contato@itaperunadistribuidora.com.br."
+          "body": "O titular pode solicitar alterações, exclusões ou informações pelo e-mail contato@graosdourado.online."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para dúvidas sobre privacidade, entre em contato com nosso Encarregado de Dados no e-mail contato@itaperunadistribuidora.com.br."
+          "body": "Para dúvidas, envie uma mensagem ao encarregado de dados: contato@graosdourado.online."
         }
       ]
     },
@@ -114,27 +114,27 @@
       "sections": [
         {
           "title": "1. Aceite dos termos",
-          "body": "Ao acessar os canais da Itaperuna Distribuidora de Carnes, você concorda com estes Termos de Uso."
+          "body": "Ao acessar nossos canais, você concorda com estes Termos de Uso."
         },
         {
           "title": "2. Uso adequado",
-          "body": "É proibido utilizar nossos conteúdos para fins ilícitos, reproduzi-los sem autorização ou comprometer a segurança da plataforma."
+          "body": "É proibido utilizar nossos conteúdos para fins ilícitos ou comprometer a segurança da plataforma."
         },
         {
           "title": "3. Propriedade intelectual",
-          "body": "Todo material exibido pela empresa é protegido por direitos autorais e não pode ser explorado comercialmente sem consentimento prévio."
+          "body": "Todo conteúdo apresentado é protegido por direitos autorais."
         },
         {
           "title": "4. Limitação de responsabilidade",
-          "body": "Empenhamos esforços para garantir informações atualizadas, mas podem ocorrer erros ou alterações sem aviso prévio."
+          "body": "Buscamos manter informações atualizadas, mas podem ocorrer alterações sem aviso prévio."
         },
         {
           "title": "5. Atualizações",
-          "body": "Os Termos podem ser atualizados a qualquer momento. Recomendamos revisão periódica."
+          "body": "Estes Termos podem ser atualizados periodicamente."
         },
         {
           "title": "6. Foro",
-          "body": "Fica eleito o foro da Comarca de Itaperuna/RJ para resolução de disputas."
+          "body": "Fica eleito o foro de Palmeiras do Tocantins/TO para resolução de eventuais disputas."
         }
       ]
     },
@@ -143,31 +143,31 @@
       "sections": [
         {
           "title": "1. Introduction",
-          "body": "This Privacy Policy describes how Itaperuna Distribuidora de Carnes collects, uses, and protects personal data from customers, partners, and visitors."
+          "body": "This Privacy Policy explains how Grãos Dourado Distribuidora collects and protects personal data."
         },
         {
           "title": "2. Data Collected",
-          "body": "We collect voluntarily provided information such as name, phone, and email, as well as browsing data for statistical and security purposes."
+          "body": "We collect contact information such as name, phone, and email when voluntarily provided."
         },
         {
           "title": "3. Use of Information",
-          "body": "Data is used for customer service, quotations, communication, and legal compliance."
+          "body": "Data is used for customer service, quotations, and communication."
         },
         {
           "title": "4. Sharing",
-          "body": "We do not sell personal data. Information may be shared only with essential partners in compliance with LGPD."
+          "body": "We do not sell personal data. Information is shared only when legally required or operationally necessary."
         },
         {
           "title": "5. Security",
-          "body": "We implement safeguards to protect personal data from unauthorized access and incidents."
+          "body": "We take reasonable measures to protect personal data."
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "Users may request access, correction, portability, or deletion by contacting contato@itaperunadistribuidora.com.br."
+          "body": "Users may request corrections or deletion by contacting contato@graosdourado.online."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For privacy matters, contact our Data Protection Officer at contato@itaperunadistribuidora.com.br."
+          "body": "For privacy matters, contact our Data Protection Officer via contato@graosdourado.online."
         }
       ]
     },
@@ -176,19 +176,19 @@
       "sections": [
         {
           "title": "1. Acceptance of Terms",
-          "body": "By accessing Itaperuna Distribuidora de Carnes channels, you agree to these Terms of Use."
+          "body": "By accessing our channels, you agree to these Terms of Use."
         },
         {
           "title": "2. Proper Use",
-          "body": "It is forbidden to use our content for unlawful purposes or to compromise platform security."
+          "body": "It is forbidden to use our content for unlawful activities."
         },
         {
           "title": "3. Intellectual Property",
-          "body": "All content is protected by copyright and cannot be commercially exploited without authorization."
+          "body": "All displayed content is protected by copyright."
         },
         {
           "title": "4. Limitation of Liability",
-          "body": "Although we strive for accuracy, occasional errors may occur."
+          "body": "Although we strive for accuracy, some information may change without notice."
         },
         {
           "title": "5. Updates",
@@ -196,7 +196,7 @@
         },
         {
           "title": "6. Jurisdiction",
-          "body": "The jurisdiction of Itaperuna/RJ, Brazil is elected for dispute resolution."
+          "body": "The jurisdiction of Palmeiras do Tocantins/TO, Brazil is elected for dispute resolution."
         }
       ]
     }
