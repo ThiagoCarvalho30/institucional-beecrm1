@@ -27,8 +27,8 @@ export default function Home() {
         <Image 
           src="/images/logo.png" 
           alt="Logo" 
-          width={300} 
-          height={300} 
+          width={400} 
+          height={400} 
           priority
           quality={80}
           style={{borderRadius: '50%'}}
@@ -83,7 +83,7 @@ export default function Home() {
             </p>
           </div>
           <div>
-            <ul className="value-list">
+            <ul className="callout-list">
               <li>
                 <h4>Empresa estabelecida</h4>
                 <p>CNPJ {company.cnpj} · {formatFullAddress(address)}</p>

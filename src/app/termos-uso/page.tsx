@@ -11,15 +11,15 @@ export default function TermosUsoPage() {
   const terms = legal.terms;
 
   return (
-    <section>
-      <div className="container stack">
-        <header className="stack">
-          <h1 className="section-title">Termos de Uso</h1>
-          <p className="section-subtitle">
+    <section className="legal-page">
+      <div className="container">
+        <header className="legal-page__header">
+          <h1>Termos de Uso</h1>
+          <p>
             Ao acessar os canais digitais da {company.name}, você concorda com as
             condições estabelecidas neste documento.
           </p>
-          <small style={{ color: "var(--color-muted)" }}>
+          <small>
             Última atualização: {terms.lastUpdated}
           </small>
         </header>
@@ -33,10 +33,14 @@ export default function TermosUsoPage() {
           ))}
         </div>
 
-        <div className="card">
+        <div className="card legal-contact">
+          <h2>Dúvidas?</h2>
           <p>
             Qualquer dúvida sobre estes Termos de Uso pode ser esclarecida com
-            nossa equipe jurídica pelo e-mail {company.email ?? "contato@beelabs.com.br"}.
+            nossa equipe jurídica pelo e-mail{" "}
+            <a href={`mailto:${company.email ?? "contato@beelabs.com.br"}`}>
+              {company.email ?? "contato@beelabs.com.br"}
+            </a>.
           </p>
         </div>
       </div>

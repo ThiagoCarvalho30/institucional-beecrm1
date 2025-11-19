@@ -11,9 +11,9 @@ export default function PoliticaPrivacidadePage() {
   const privacy = legal.privacy;
 
   return (
-    <section className="politica">
+    <section className="legal-page">
       <div className="container">
-        <header className="politica__header">
+        <header className="legal-page__header">
           <h1>Política de Privacidade</h1>
           <p>
             Este documento descreve como a {company.name} trata os dados pessoais
@@ -22,16 +22,16 @@ export default function PoliticaPrivacidadePage() {
           <small>Última atualização: {privacy.lastUpdated}</small>
         </header>
 
-        <div className="politica__content">
+        <div className="legal-wrapper">
           {privacy.sections.map((section) => (
-            <article key={section.title} className="politica__section">
+            <article key={section.title} className="legal-section">
               <h3>{section.title}</h3>
               <p>{section.body}</p>
             </article>
           ))}
         </div>
 
-        <div className="politica__contact card">
+        <div className="card legal-contact">
           <h2>Entre em contato</h2>
           <p>
             Em caso de dúvidas sobre esta política ou para exercer seus direitos
