@@ -47,7 +47,7 @@ export default function RootLayout({
   return (
       <html lang="pt-BR">
         <head>
-          <meta name="facebook-domain-verification" content="xijo57gdkycb3xtuo6nzg33r9bhqbb" />
+          <meta name="facebook-domain-verification" content="7uwjryfkbtze8ow1xy97inphsegech" />
         </head>
         <body className={`${geistSans.variable} ${geistMono.variable}`}>
           <div className="site-wrapper">
