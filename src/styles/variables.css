@@ -1,0 +1,67 @@
+/* ===================================
+   Variáveis CSS
+   =================================== */
+
+:root {
+  /* Cores baseadas na logo */
+  --color-primary: #2d5a3d;
+  --color-primary-light: #3d6a4d;
+  --color-primary-dark: #1d4a2d;
+  --color-accent: #c8956d;
+  --color-accent-hover: #b8855d;
+  
+  --color-text-primary: #2a2a3e;
+  --color-text-secondary: #5f6178;
+  --color-text-muted: #8b8d9e;
+  
+  --color-bg-body: #f8f9fb;
+  --color-bg-surface: #ffffff;
+  --color-bg-light: #f3f4f7;
+  
+  --color-border: #e4e6ed;
+  --color-border-light: rgba(45, 42, 110, 0.08);
+  
+  --color-success: #1db87d;
+  --color-error: #d94a4a;
+  
+  /* Espaçamentos */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2.5rem;
+  --spacing-xl: 4rem;
+  --spacing-2xl: 6rem;
+  
+  /* Tipografia */
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 2rem;
+  --font-size-4xl: 2.5rem;
+  --font-size-5xl: 3rem;
+  
+  --line-height-tight: 1.2;
+  --line-height-base: 1.6;
+  --line-height-relaxed: 1.8;
+  
+  /* Bordas */
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-full: 9999px;
+  
+  /* Sombras */
+  --shadow-sm: 0 1px 3px rgba(45, 42, 110, 0.08);
+  --shadow-md: 0 4px 12px rgba(45, 42, 110, 0.12);
+  --shadow-lg: 0 12px 32px rgba(45, 42, 110, 0.16);
+  --shadow-xl: 0 20px 48px rgba(45, 42, 110, 0.2);
+  
+  /* Transições */
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.25s ease;
+  --transition-slow: 0.4s ease;
+}

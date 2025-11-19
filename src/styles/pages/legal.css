@@ -1,0 +1,123 @@
+/* ===================================
+   Páginas Legais (Termos de Uso e Política de Privacidade)
+   =================================== */
+
+.legal-page {
+  padding-block: var(--spacing-2xl);
+  background: var(--color-bg-body);
+}
+
+.legal-page__header {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-xl);
+}
+
+.legal-page__header h1 {
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  font-weight: 700;
+  color: var(--color-primary);
+  line-height: 1.2;
+}
+
+.legal-page__header p {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-lg);
+  line-height: var(--line-height-relaxed);
+  max-width: 70ch;
+}
+
+.legal-page__header small {
+  color: var(--color-text-muted);
+  font-size: var(--font-size-sm);
+  margin-top: 0.25rem;
+}
+
+.legal-wrapper {
+  background: var(--color-bg-surface);
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-xl);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+  max-width: 900px;
+  margin-inline: auto;
+}
+
+.legal-section {
+  padding-bottom: var(--spacing-md);
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.legal-section:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.legal-section h3 {
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.legal-section p {
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+  font-size: var(--font-size-base);
+}
+
+.legal-contact {
+  margin-top: var(--spacing-xl);
+  max-width: 800px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.legal-contact h2 {
+  font-size: var(--font-size-xl);
+  color: var(--color-primary);
+  font-weight: 600;
+  margin-bottom: var(--spacing-sm);
+}
+
+.legal-contact p {
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+}
+
+.legal-contact a {
+  color: var(--color-primary);
+  font-weight: 600;
+  transition: color var(--transition-fast);
+}
+
+.legal-contact a:hover {
+  color: var(--color-primary-light);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .legal-wrapper {
+    padding: var(--spacing-lg);
+  }
+
+  .legal-page__header h1 {
+    font-size: 2rem;
+  }
+
+  .legal-page__header p {
+    font-size: var(--font-size-base);
+  }
+}
+
+@media (max-width: 480px) {
+  .legal-wrapper {
+    padding: var(--spacing-lg);
+  }
+}
