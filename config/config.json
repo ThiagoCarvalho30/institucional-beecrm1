@@ -1,55 +1,55 @@
 {
   "company": {
-    "name": "Grãos Dourado Distribuidora de Grãos",
-    "footerName": "Grãos Dourado Distribuidora",
-    "footerJuridicalName": "Grãos Dourado Distribuidora de Grãos LTDA",
-    "slogan": "Qualidade e procedência em grãos selecionados.",
-    "cnpj": "34.665.501/0001-09",
-    "email": "contato@graosdourado.online",
-    "phone": "(11) 5194-2713",
-    "whatsapp": "https://wa.me/551151942713",
-    "logoAlt": "Logotipo da Grãos Dourado Distribuidora de Grãos",
-    "foundedIn": "2019"
+    "name": "JUNTOS COMUNICACAO E EVENTOS LTDA",
+    "footerName": "JUNTOS COMUNICAÇÃO",
+    "footerJuridicalName": "JUNTOS COMUNICACAO E EVENTOS LTDA",
+    "slogan": "Qualidade e procedência em grãos selecionados",
+    "cnpj": "40.758.417/0001-32",
+    "email": "contato@juntoscomunicacao.online",
+    "phone": "(14) 3120-0227",
+    "whatsapp": "https://wa.me/551431200227",
+    "logoAlt": "Logotipo da Juntos Comunicacao e Eventos",
+    "foundedIn": "2021"
   },
   "about": {
-    "short": "A Grãos Dourado Distribuidora atua no comércio atacadista de cereais e leguminosas beneficiadas, oferecendo produtos selecionados para abastecimento de mercados, mercearias e comércios locais.",
-    "mission": "Fornecer grãos de qualidade com segurança, preço justo e atendimento eficiente ao setor varejista e atacadista.",
-    "vision": "Ser referência regional na distribuição de cereais e leguminosas, prezando pela confiança e regularidade no abastecimento.",
+    "short": "A JUNTOS COMUNICACAO E EVENTOS LTDA atua principalmente com serviços combinados de escritório e apoio administrativo, além de agências de publicidade, consultoria em publicidade e organização de eventos.",
+    "mission": "Fornecer serviços de comunicação, apoio administrativo e organização de eventos com excelência e eficiência para o setor empresarial.",
+    "vision": "Ser referência em soluções integradas de comunicação e eventos na região de Bauru e entorno.",
     "values": [
       {
         "title": "Qualidade",
-        "description": "Produtos cuidadosamente selecionados e armazenados de forma adequada."
+        "description": "Foco na excelência dos serviços de comunicação e apoio administrativo."
       },
       {
         "title": "Confiabilidade",
-        "description": "Parcerias sólidas com fornecedores e clientes, garantindo entregas consistentes."
+        "description": "Garantia de parcerias sólidas e entregas consistentes em eventos e consultoria."
       },
       {
         "title": "Compromisso",
-        "description": "Atuação responsável e comprometida com boas práticas de distribuição."
+        "description": "Atuação responsável e comprometida com as necessidades dos clientes."
       }
     ],
     "detailed": [
-      "Trabalhamos com cereais e leguminosas beneficiados, prezando pela boa procedência e condições adequadas de armazenamento.",
-      "Atendemos mercados, mercearias e comerciantes que necessitam de fornecimento constante e confiável.",
-      "Buscamos manter parcerias com fornecedores certificados e manter uma operação eficiente na distribuição."
+      "Trabalhamos com serviços combinados de escritório e apoio administrativo, conforme atividade principal.",
+      "Atuamos como agência de publicidade, consultoria em publicidade e intermediação de serviços e negócios.",
+      "Oferecemos serviços de organização de feiras, congressos, exposições e festas[cite: 19]."
     ]
   },
   "address": {
-    "street": "Avenida Nossa Senhora de Nazaré",
-    "number": "120 Letra A",
-    "neighborhood": "Centro",
-    "city": "Palmeiras do Tocantins",
-    "state": "TO",
-    "zip": "77913-000",
+    "street": "AV ETELVINA DE SOUZA MAJONE",
+    "number": "1-199",
+    "neighborhood": "RESERVA BELAS NACOES",
+    "city": "BAURU",
+    "state": "SP",
+    "zip": "17.047-202",
     "country": "Brasil",
-    "complement": ""
+    "complement": "APT 403 ANDAR 3 BLOCO 5"
   },
   "contact": {
-    "email": "contato@graosdourado.online",
-    "phone": "(11) 5194-2713",
-    "serviceHours": "Segunda a sábado, das 7h às 18h",
-    "supportMessage": "Entre em contato para pedidos, cotações e suporte comercial."
+    "email": "contato@juntoscomunicacao.online",
+    "phone": "(14) 3120-0227",
+    "serviceHours": "Segunda a sexta, das 8h às 18h (Sugestão)",
+    "supportMessage": "Entre em contato para orçamentos, projetos de comunicação e consultoria."
   },
   "social": {
     "facebook": "#",
@@ -59,20 +59,20 @@
   },
   "services": [
     {
-      "title": "Comércio Atacadista de Cereais",
-      "description": "Venda de cereais selecionados para abastecimento de varejistas e comerciantes."
+      "title": "Apoio Administrativo e Escritório",
+      "description": "Serviços combinados de escritório e apoio administrativo (atividade principal)."
     },
     {
-      "title": "Distribuição de Leguminosas",
-      "description": "Linha de leguminosas beneficiadas, prontas para comercialização no varejo."
+      "title": "Agência de Publicidade",
+      "description": "Criação, produção e veiculação de publicidade para diversos meios[cite: 17]."
     },
     {
-      "title": "Fracionamento e Acondicionamento",
-      "description": "Produtos fracionados e embalados conforme necessidade do cliente."
+      "title": "Consultoria em Publicidade",
+      "description": "Orientação estratégica e planejamento em campanhas e ações de marketing[cite: 18]."
     },
     {
-      "title": "Atendimento Comercial",
-      "description": "Suporte para pedidos, informações e orientações sobre produtos."
+      "title": "Organização de Eventos",
+      "description": "Serviços de organização de feiras, congressos, exposições e festas[cite: 19]."
     }
   ],
   "legal": {
@@ -81,7 +81,7 @@
       "sections": [
         {
           "title": "1. Introdução",
-          "body": "Esta Política de Privacidade explica como a Grãos Dourado Distribuidora coleta, utiliza e protege dados pessoais de clientes e visitantes."
+          "body": "Esta Política de Privacidade explica como a JUNTOS COMUNICACAO E EVENTOS LTDA coleta, utiliza e protege dados pessoais de clientes e visitantes."
         },
         {
           "title": "2. Dados coletados",
@@ -89,7 +89,7 @@
         },
         {
           "title": "3. Uso das informações",
-          "body": "Os dados são utilizados para atendimento, cotações e comunicações comerciais."
+          "body": "Os dados são utilizados para atendimento, orçamentos e comunicações comerciais."
         },
         {
           "title": "4. Compartilhamento",
@@ -101,11 +101,11 @@
         },
         {
           "title": "6. Direitos do titular",
-          "body": "O titular pode solicitar alterações, exclusões ou informações pelo e-mail contato@graosdourado.online."
+          "body": "O titular pode solicitar alterações, exclusões ou informações pelo e-mail contato@juntoscomunicacao.online."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para dúvidas, envie uma mensagem ao encarregado de dados: contato@graosdourado.online."
+          "body": "Para dúvidas, envie uma mensagem ao encarregado de dados: contato@juntoscomunicacao.online."
         }
       ]
     },
@@ -134,7 +134,7 @@
         },
         {
           "title": "6. Foro",
-          "body": "Fica eleito o foro de Palmeiras do Tocantins/TO para resolução de eventuais disputas."
+          "body": "Fica eleito o foro de Bauru/SP para resolução de eventuais disputas."
         }
       ]
     },
@@ -143,7 +143,7 @@
       "sections": [
         {
           "title": "1. Introduction",
-          "body": "This Privacy Policy explains how Grãos Dourado Distribuidora collects and protects personal data."
+          "body": "This Privacy Policy explains how JUNTOS COMUNICACAO E EVENTOS LTDA collects and protects personal data."
         },
         {
           "title": "2. Data Collected",
@@ -163,11 +163,11 @@
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "Users may request corrections or deletion by contacting contato@graosdourado.online."
+          "body": "Users may request corrections or deletion by contacting contato@juntoscomunicacao.online."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For privacy matters, contact our Data Protection Officer via contato@graosdourado.online."
+          "body": "For privacy matters, contact our Data Protection Officer via contato@juntoscomunicacao.online."
         }
       ]
     },
@@ -196,7 +196,7 @@
         },
         {
           "title": "6. Jurisdiction",
-          "body": "The jurisdiction of Palmeiras do Tocantins/TO, Brazil is elected for dispute resolution."
+          "body": "The jurisdiction of Bauru/SP, Brazil is elected for dispute resolution."
         }
       ]
     }
