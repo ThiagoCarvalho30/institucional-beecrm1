@@ -1,9 +1,10 @@
+ 
 import Link from "next/link";
 import Image from "next/image";
 import { formatFullAddress, siteConfig } from "@/lib/siteConfig";
 
 export default function Home() {
-  const { company, about, services, contact, address } = siteConfig;
+  const { company, about, services, contact, address, copy } = siteConfig;
 
   return (
     <>
@@ -16,10 +17,10 @@ export default function Home() {
         <p className="section-subtitle">{about.short}</p>
         <div className="hero__cta">
           <Link className="btn btn-primary" href="/contato">
-            Fale com nossa equipe
+            {copy.hero.ctaPrimary}
           </Link>
           <Link className="btn btn-outline" href="/sobre">
-            Conheça Mais
+            {copy.hero.ctaSecondary}
           </Link>
         </div>
       </div>
@@ -41,7 +42,7 @@ export default function Home() {
       <section id="sobre">
         <div className="container stack">
           <div>
-            <h2 className="section-title">Quem somos</h2>
+            <h2 className="section-title">{copy.titles.quemSomos}</h2>
             <p className="section-subtitle">
               {about.detailed[0]}
             </p>
@@ -59,10 +60,8 @@ export default function Home() {
 
       <section id="servicos">
         <div className="container">
-          <h2 className="section-title">Nossos Serviços</h2>
-          <p className="section-subtitle">
-            Oferecemos produtos alimentícios de qualidade com atendimento personalizado e preços justos para o seu dia a dia.
-          </p>
+          <h2 className="section-title">{copy.titles.servicos}</h2>
+          <p className="section-subtitle">{copy.sections.servicesSubtitle}</p>
           <div className="grid grid--three">
             {services.map((service) => (
               <article key={service.title} className="card">
@@ -77,23 +76,21 @@ export default function Home() {
       <section>
         <div className="container callout">
           <div>
-            <h3>Qualidade e confiança em cada produto</h3>
-            <p>
-              Trabalhamos com fornecedores de confiança e processos rigorosos de seleção para garantir que você tenha acesso aos melhores produtos alimentícios com frescor e procedência garantidos.
-            </p>
+            <h3>{copy.callout.title}</h3>
+            <p>{copy.callout.paragraph}</p>
           </div>
           <div>
             <ul className="callout-list">
               <li>
-                <h4>Empresa estabelecida</h4>
+                <h4>{copy.callout.itemTitles.empresa}</h4>
                 <p>CNPJ {company.cnpj} · {formatFullAddress(address)}</p>
               </li>
               <li>
-                <h4>Suporte dedicado</h4>
+                <h4>{copy.callout.itemTitles.suporte}</h4>
                 <p>{contact.supportMessage}</p>
               </li>
               <li>
-                <h4>Atendimento direto</h4>
+                <h4>{copy.callout.itemTitles.atendimento}</h4>
                 <p>
                   <strong>Telefone:</strong> {contact.phone} · <strong>E-mail:</strong> {contact.email}
                 </p>

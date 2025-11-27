@@ -77,6 +77,39 @@
       "description": "Serviços combinados de escritório e apoio administrativo."
     }
   ],
+ "copy": {
+  "hero": {
+    "ctaPrimary": "Fale com nossa equipe",
+    "ctaSecondary": "Conheça Mais"
+  },
+  "titles": {
+    "quemSomos": "Quem somos",
+    "servicos": "Nossos Serviços"
+  },
+  "sections": {
+    "servicesSubtitle": "Oferecemos soluções completas em tecnologia da informação, desenvolvimento de software, treinamento e manutenção técnica."
+  },
+  "callout": {
+    "title": "Excelência e confiabilidade em soluções digitais",
+    "paragraph": "Com expertise em consultoria de TI, desenvolvimento de software e suporte técnico, entregamos soluções eficientes, seguras e personalizadas para impulsionar a transformação digital dos nossos clientes.",
+    "itemTitles": {
+      "empresa": "Empresa especializada",
+      "suporte": "Suporte dedicado",
+      "atendimento": "Atendimento direto"
+    }
+  },
+  "pageTitles": {
+    "sobre": "Sobre nós"
+  },
+  "about": {
+    "headerTitle": "Tecnologia, inovação e consultoria para transformar negócios",
+    "missionTitle": "Missão",
+    "visionTitle": "Visão",
+    "valuesTitle": "Valores que nos movem",
+    "locationTitle": "Onde estamos"
+  }
+},
+
   "legal": {
     "privacy": {
       "lastUpdated": "27 de novembro de 2025",
