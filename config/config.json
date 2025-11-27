@@ -1,55 +1,53 @@
 {
   "company": {
-    "name": "JUNTOS COMUNICACAO E EVENTOS LTDA",
-    "footerName": "JUNTOS COMUNICAÇÃO",
-    "footerJuridicalName": "JUNTOS COMUNICACAO E EVENTOS LTDA",
-    "slogan": "Qualidade e procedência em grãos selecionados",
-    "cnpj": "40.758.417/0001-32",
-    "email": "contato@juntoscomunicacao.online",
-    "phone": "(14) 3120-0227",
-    "whatsapp": "https://wa.me/551431200227",
-    "logoAlt": "Logotipo da Juntos Comunicacao e Eventos",
-    "foundedIn": "2021"
+    "name": "CVFLOW SOLUCAO DIGITAL LTDA",
+    "footerName": "CVFLOW DIGITAL",
+    "footerJuridicalName": "CVFLOW SOLUCAO DIGITAL LTDA",
+    "slogan": "Inovação e consultoria em tecnologia da informação",
+    "cnpj": "60.442.103/0001-33",
+    "email": "contato@cvflowdigital.online",
+    "phone": "(16) 3190-0116",
+    "whatsapp": "https://wa.me/551631900116",
+    "logoAlt": "Logotipo da CVFLOW SOLUCAO DIGITAL",
+    "foundedIn": "2025"
   },
   "about": {
-    "short": "A JUNTOS COMUNICACAO E EVENTOS LTDA atua principalmente com serviços combinados de escritório e apoio administrativo, além de agências de publicidade, consultoria em publicidade e organização de eventos.",
-    "mission": "Fornecer serviços de comunicação, apoio administrativo e organização de eventos com excelência e eficiência para o setor empresarial.",
-    "vision": "Ser referência em soluções integradas de comunicação e eventos na região de Bauru e entorno.",
+    "short": "A CVFLOW SOLUCAO DIGITAL LTDA atua principalmente com Consultoria em tecnologia da informação, além de desenvolvimento de software customizável e não-customizável, treinamento em informática e reparação de computadores.",
+    "mission": "Oferecer soluções digitais inovadoras e consultoria especializada em tecnologia da informação, impulsionando o sucesso dos nossos clientes.",
+    "vision": "Ser reconhecida como líder em consultoria e desenvolvimento de soluções digitais no mercado.",
     "values": [
       {
-        "title": "Qualidade",
-        "description": "Foco na excelência dos serviços de comunicação e apoio administrativo."
+        "title": "Inovação",
+        "description": "Buscar e implementar as mais recentes tecnologias em consultoria e desenvolvimento de software."
+      },
+      {
+        "title": "Especialização",
+        "description": "Foco na excelência técnica em tecnologia da informação e suporte em informática."
       },
       {
         "title": "Confiabilidade",
-        "description": "Garantia de parcerias sólidas e entregas consistentes em eventos e consultoria."
-      },
-      {
-        "title": "Compromisso",
-        "description": "Atuação responsável e comprometida com as necessidades dos clientes."
+        "description": "Garantia de serviços de reparação e manutenção de computadores e equipamentos periféricos com qualidade."
       }
     ],
     "detailed": [
-      "Trabalhamos com serviços combinados de escritório e apoio administrativo, conforme atividade principal.",
-      "Atuamos como agência de publicidade, consultoria em publicidade e intermediação de serviços e negócios.",
-      "Oferecemos serviços de organização de feiras, congressos, exposições e festas."
+      "A CVFLOW atua principalmente com Consultoria em tecnologia da informação, desenvolvendo e licenciando programas de computador (customizáveis e não-customizáveis), oferecendo Treinamento em informática, realizando Reparação e manutenção de computadores e equipamentos periféricos, e prestando Serviços combinados de escritório, apoio administrativo e preparação de documentos especializados."
     ]
   },
   "address": {
-    "street": "AV ETELVINA DE SOUZA MAJONE",
-    "number": "1-199",
-    "neighborhood": "RESERVA BELAS NACOES",
+    "street": "R APARECIDA",
+    "number": "862",
+    "neighborhood": "JD. SANTAΝΑ",
     "city": "BAURU",
     "state": "SP",
-    "zip": "17.047-202",
+    "zip": "17.020-210",
     "country": "Brasil",
-    "complement": "APT 403 ANDAR 3 BLOCO 5"
+    "complement": ""
   },
   "contact": {
-    "email": "contato@juntoscomunicacao.online",
-    "phone": "(14) 3120-0227",
-    "serviceHours": "Segunda a sexta, das 8h às 18h (Sugestão)",
-    "supportMessage": "Entre em contato para orçamentos, projetos de comunicação e consultoria."
+    "email": "contato@cvflowdigital.online",
+    "phone": "(16) 3190-0116",
+    "serviceHours": "Segunda a sexta, das 9h às 18h (Sugestão)",
+    "supportMessage": "Entre em contato para consultoria em TI, desenvolvimento de software e treinamento em informática."
   },
   "social": {
     "facebook": "#",
@@ -59,37 +57,41 @@
   },
   "services": [
     {
-      "title": "Apoio Administrativo e Escritório",
-      "description": "Serviços combinados de escritório e apoio administrativo (atividade principal)."
+      "title": "Consultoria em TI",
+      "description": "Consultoria em tecnologia da informação (atividade principal)."
     },
     {
-      "title": "Agência de Publicidade",
-      "description": "Criação, produção e veiculação de publicidade para diversos meios."
+      "title": "Desenvolvimento de Software",
+      "description": "Desenvolvimento e licenciamento de programas de computador customizáveis e não-customizáveis."
     },
     {
-      "title": "Consultoria em Publicidade",
-      "description": "Orientação estratégica e planejamento em campanhas e ações de marketing."
+      "title": "Treinamento em Informática",
+      "description": "Cursos e treinamento em informática para empresas e profissionais."
     },
     {
-      "title": "Organização de Eventos",
-      "description": "Serviços de organização de feiras, congressos, exposições e festas."
+      "title": "Manutenção de Computadores",
+      "description": "Reparação e manutenção de computadores e de equipamentos periféricos."
+    },
+    {
+      "title": "Apoio Administrativo",
+      "description": "Serviços combinados de escritório e apoio administrativo."
     }
   ],
   "legal": {
     "privacy": {
-      "lastUpdated": "7 de outubro de 2025",
+      "lastUpdated": "27 de novembro de 2025",
       "sections": [
         {
           "title": "1. Introdução",
-          "body": "Esta Política de Privacidade explica como a JUNTOS COMUNICACAO E EVENTOS LTDA coleta, utiliza e protege dados pessoais de clientes e visitantes."
+          "body": "Esta Política de Privacidade explica como a CVFLOW SOLUCAO DIGITAL LTDA coleta, utiliza e protege dados pessoais de clientes e visitantes."
         },
         {
           "title": "2. Dados coletados",
-          "body": "Coletamos dados como nome, telefone, e-mail e informações de contato fornecidas voluntariamente."
+          "body": "Coletamos dados como nome, telefone, e-mail e informações de contato fornecidas voluntariamente para fins de consultoria e serviços."
         },
         {
           "title": "3. Uso das informações",
-          "body": "Os dados são utilizados para atendimento, orçamentos e comunicações comerciais."
+          "body": "Os dados são utilizados para atendimento, orçamentos e comunicações comerciais relacionadas a serviços de TI e consultoria."
         },
         {
           "title": "4. Compartilhamento",
@@ -101,16 +103,16 @@
         },
         {
           "title": "6. Direitos do titular",
-          "body": "O titular pode solicitar alterações, exclusões ou informações pelo e-mail contato@juntoscomunicacao.online."
+          "body": "O titular pode solicitar alterações, exclusões ou informações pelo e-mail contato@cvflowdigital.online."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para dúvidas, envie uma mensagem ao encarregado de dados: contato@juntoscomunicacao.online."
+          "body": "Para dúvidas, envie uma mensagem ao encarregado de dados: contato@cvflowdigital.online."
         }
       ]
     },
     "terms": {
-      "lastUpdated": "7 de outubro de 2025",
+      "lastUpdated": "27 de novembro de 2025",
       "sections": [
         {
           "title": "1. Aceite dos termos",
@@ -122,7 +124,7 @@
         },
         {
           "title": "3. Propriedade intelectual",
-          "body": "Todo conteúdo apresentado é protegido por direitos autorais."
+          "body": "Todo conteúdo apresentado, especialmente os relacionados aos softwares e consultorias, é protegido por direitos autorais."
         },
         {
           "title": "4. Limitação de responsabilidade",
@@ -139,19 +141,19 @@
       ]
     },
     "privacyEn": {
-      "lastUpdated": "October 7, 2025",
+      "lastUpdated": "November 27, 2025",
       "sections": [
         {
           "title": "1. Introduction",
-          "body": "This Privacy Policy explains how JUNTOS COMUNICACAO E EVENTOS LTDA collects and protects personal data."
+          "body": "This Privacy Policy explains how CVFLOW SOLUCAO DIGITAL LTDA collects and protects personal data."
         },
         {
           "title": "2. Data Collected",
-          "body": "We collect contact information such as name, phone, and email when voluntarily provided."
+          "body": "We collect contact information such as name, phone, and email when voluntarily provided for consultation and services."
         },
         {
           "title": "3. Use of Information",
-          "body": "Data is used for customer service, quotations, and communication."
+          "body": "Data is used for customer service, quotations, and commercial communication related to IT services and consulting."
         },
         {
           "title": "4. Sharing",
@@ -163,16 +165,16 @@
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "Users may request corrections or deletion by contacting contato@juntoscomunicacao.online."
+          "body": "Users may request corrections or deletion by contacting contato@cvflowdigital.online."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For privacy matters, contact our Data Protection Officer via contato@juntoscomunicacao.online."
+          "body": "For privacy matters, contact our Data Protection Officer via contato@cvflowdigital.online."
         }
       ]
     },
     "termsEn": {
-      "lastUpdated": "October 7, 2025",
+      "lastUpdated": "November 27, 2025",
       "sections": [
         {
           "title": "1. Acceptance of Terms",
@@ -184,7 +186,7 @@
         },
         {
           "title": "3. Intellectual Property",
-          "body": "All displayed content is protected by copyright."
+          "body": "All displayed content, especially related to software and consulting, is protected by copyright."
         },
         {
           "title": "4. Limitation of Liability",

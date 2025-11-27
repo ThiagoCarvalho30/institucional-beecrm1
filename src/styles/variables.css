@@ -4,11 +4,11 @@
 
 :root {
   /* Cores baseadas na logo */
---color-primary: #2C2C2C; /* Cor Principal (Preto da logo) */
---color-primary-light: #4A4A4A; /* Variação do Preto */
---color-primary-dark: #1A1A1A; /* Variação Mais Escura do Preto */
---color-accent: #C29F42; /* Cor de Destaque (Dourado da logo) */
---color-accent-hover: #A88B3A; /* Hover do Dourado */
+--color-primary: #0E1727; /* Azul Marinho Escuro */
+  --color-primary-light: #1A2C46; /* Variação do Primário */
+  --color-primary-dark: #080E16; /* Variação Mais Escura do Primário */
+  --color-accent: #33B5E5; /* Ciano/Verde Claro (Destaque da Seta) */
+  --color-accent-hover: #0099CC; /* Hover do Ciano */
   
   --color-text-primary: #2a2a3e;
   --color-text-secondary: #5f6178;
