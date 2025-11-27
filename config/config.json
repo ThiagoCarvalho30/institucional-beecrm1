@@ -75,6 +75,38 @@
       "description": "Serviços de organização de feiras, congressos, exposições e festas."
     }
   ],
+"copy": {
+  "hero": {
+    "ctaPrimary": "Fale com nossa equipe",
+    "ctaSecondary": "Conheça Mais"
+  },
+  "titles": {
+    "quemSomos": "Quem somos",
+    "servicos": "Nossos Serviços"
+  },
+  "sections": {
+    "servicesSubtitle": "Oferecemos soluções completas em comunicação, publicidade, apoio administrativo e organização de eventos."
+  },
+  "callout": {
+    "title": "Excelência e confiança em comunicação e eventos",
+    "paragraph": "Atuamos com profissionalismo, criatividade e processos eficientes para entregar serviços de comunicação, publicidade e eventos com qualidade, agilidade e total compromisso com o cliente.",
+    "itemTitles": {
+      "empresa": "Empresa estabelecida",
+      "suporte": "Suporte dedicado",
+      "atendimento": "Atendimento direto"
+    }
+  },
+  "pageTitles": {
+    "sobre": "Sobre nós"
+  },
+  "about": {
+    "headerTitle": "Transformando comunicação e eventos com estratégia e criatividade",
+    "missionTitle": "Missão",
+    "visionTitle": "Visão",
+    "valuesTitle": "Valores que nos movem",
+    "locationTitle": "Onde estamos"
+  }
+},
   "legal": {
     "privacy": {
       "lastUpdated": "7 de outubro de 2025",
