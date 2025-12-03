@@ -1,53 +1,53 @@
 {
   "company": {
-    "name": "CVFLOW SOLUCAO DIGITAL LTDA",
-    "footerName": "CVFLOW DIGITAL",
-    "footerJuridicalName": "CVFLOW SOLUCAO DIGITAL LTDA",
-    "slogan": "Inovação e consultoria em tecnologia da informação",
-    "cnpj": "60.442.103/0001-33",
-    "email": "contato@cvflowdigital.online",
-    "phone": "(16) 3190-0116",
-    "whatsapp": "https://wa.me/551631900116",
-    "logoAlt": "Logotipo da CVFLOW SOLUCAO DIGITAL",
+    "name": "Digibee Solucoes Tecnologia",
+    "footerName": "Digibee Tecnologia",
+    "footerJuridicalName": "55.415.789 THIAGO LUIS PIRES CARVALHO",
+    "slogan": "Soluções tecnológicas para integração e transformação digital",
+    "cnpj": "55.415.789/0001-33",
+    "email": "contato@digibee.tech",
+    "phone": "+55 (14) 3042-3932",
+    "whatsapp": "https://wa.me/551430423932",
+    "logoAlt": "Logotipo da Digibee Solucoes Tecnologia",
     "foundedIn": "2025"
   },
   "about": {
-    "short": "A CVFLOW SOLUCAO DIGITAL LTDA atua principalmente com Consultoria em tecnologia da informação, além de desenvolvimento de software customizável e não-customizável, treinamento em informática e reparação de computadores.",
-    "mission": "Oferecer soluções digitais inovadoras e consultoria especializada em tecnologia da informação, impulsionando o sucesso dos nossos clientes.",
-    "vision": "Ser reconhecida como líder em consultoria e desenvolvimento de soluções digitais no mercado.",
+    "short": "A Digibee Solucoes Tecnologia atua com soluções digitais, integração de sistemas, desenvolvimento de tecnologias e serviços especializados para transformar empresas por meio da inovação.",
+    "mission": "Fornecer soluções tecnológicas modernas e eficientes, promovendo integração, automação e inovação para impulsionar a transformação digital de empresas.",
+    "vision": "Tornar-se referência nacional em soluções tecnológicas e integração empresarial.",
     "values": [
       {
         "title": "Inovação",
-        "description": "Buscar e implementar as mais recentes tecnologias em consultoria e desenvolvimento de software."
-      },
-      {
-        "title": "Especialização",
-        "description": "Foco na excelência técnica em tecnologia da informação e suporte em informática."
+        "description": "Aplicar as melhores práticas e tecnologias avançadas para criar soluções modernas e eficientes."
       },
       {
         "title": "Confiabilidade",
-        "description": "Garantia de serviços de reparação e manutenção de computadores e equipamentos periféricos com qualidade."
+        "description": "Garantir segurança, estabilidade e qualidade em cada solução entregue."
+      },
+      {
+        "title": "Agilidade",
+        "description": "Oferecer respostas rápidas e soluções flexíveis para atender às demandas dos clientes."
       }
     ],
     "detailed": [
-      "A CVFLOW atua principalmente com Consultoria em tecnologia da informação, desenvolvendo e licenciando programas de computador (customizáveis e não-customizáveis), oferecendo Treinamento em informática, realizando Reparação e manutenção de computadores e equipamentos periféricos, e prestando Serviços combinados de escritório, apoio administrativo e preparação de documentos especializados."
+      "A Digibee Solucoes Tecnologia desenvolve soluções digitais, integra sistemas, cria ferramentas tecnológicas e presta serviços especializados para empresas que buscam inovação, automação e eficiência. Também oferece consultoria e implementação de estruturas tecnológicas personalizadas conforme as necessidades do cliente."
     ]
   },
   "address": {
-    "street": "R APARECIDA",
-    "number": "862",
-    "neighborhood": "JD. SANTAΝΑ",
-    "city": "BAURU",
-    "state": "SP",
-    "zip": "17.020-210",
+    "street": "PROF HERACLITO PEREIRA",
+    "number": "181",
+    "neighborhood": "",
+    "city": "VITORIA",
+    "state": "ES",
+    "zip": "29026-855",
     "country": "Brasil",
-    "complement": ""
+    "complement": "3º Andar"
   },
   "contact": {
-    "email": "contato@cvflowdigital.online",
-    "phone": "(16) 3190-0116",
-    "serviceHours": "Segunda a sexta, das 9h às 18h (Sugestão)",
-    "supportMessage": "Entre em contato para consultoria em TI, desenvolvimento de software e treinamento em informática."
+    "email": "contato@digibee.tech",
+    "phone": "+55 (14) 3042-3932",
+    "serviceHours": "Segunda a sexta, das 9h às 18h",
+    "supportMessage": "Entre em contato para soluções tecnológicas, integração de sistemas e suporte especializado."
   },
   "social": {
     "facebook": "#",
@@ -57,90 +57,89 @@
   },
   "services": [
     {
-      "title": "Consultoria em TI",
-      "description": "Consultoria em tecnologia da informação (atividade principal)."
+      "title": "Integração de Sistemas",
+      "description": "Integração de plataformas, automação de fluxos e unificação de sistemas corporativos."
     },
     {
-      "title": "Desenvolvimento de Software",
-      "description": "Desenvolvimento e licenciamento de programas de computador customizáveis e não-customizáveis."
+      "title": "Desenvolvimento de Soluções Digitais",
+      "description": "Criação de softwares e ferramentas personalizadas para empresas."
     },
     {
-      "title": "Treinamento em Informática",
-      "description": "Cursos e treinamento em informática para empresas e profissionais."
+      "title": "Consultoria em Tecnologia",
+      "description": "Análise, planejamento e implementação de soluções tecnológicas estratégicas."
     },
     {
-      "title": "Manutenção de Computadores",
-      "description": "Reparação e manutenção de computadores e de equipamentos periféricos."
+      "title": "Automação de Processos",
+      "description": "Desenvolvimento de fluxos automatizados para ganho de produtividade."
     },
     {
-      "title": "Apoio Administrativo",
-      "description": "Serviços combinados de escritório e apoio administrativo."
+      "title": "Suporte Técnico",
+      "description": "Acompanhamento, monitoramento e manutenção das soluções implantadas."
     }
   ],
- "copy": {
-  "hero": {
-    "ctaPrimary": "Fale com nossa equipe",
-    "ctaSecondary": "Conheça Mais"
-  },
-  "titles": {
-    "quemSomos": "Quem somos",
-    "servicos": "Nossos Serviços"
-  },
-  "sections": {
-    "servicesSubtitle": "Oferecemos soluções completas em tecnologia da informação, desenvolvimento de software, treinamento e manutenção técnica."
-  },
-  "callout": {
-    "title": "Excelência e confiabilidade em soluções digitais",
-    "paragraph": "Com expertise em consultoria de TI, desenvolvimento de software e suporte técnico, entregamos soluções eficientes, seguras e personalizadas para impulsionar a transformação digital dos nossos clientes.",
-    "itemTitles": {
-      "empresa": "Empresa especializada",
-      "suporte": "Suporte dedicado",
-      "atendimento": "Atendimento direto"
+  "copy": {
+    "hero": {
+      "ctaPrimary": "Fale com nossa equipe",
+      "ctaSecondary": "Saiba Mais"
+    },
+    "titles": {
+      "quemSomos": "Quem somos",
+      "servicos": "Nossos Serviços"
+    },
+    "sections": {
+      "servicesSubtitle": "Soluções completas em tecnologia, integração, automação e inovação digital."
+    },
+    "callout": {
+      "title": "Excelência em tecnologia e integração",
+      "paragraph": "Com experiência em desenvolvimento, automação e integração de sistemas, oferecemos soluções inteligentes e seguras que impulsionam a transformação digital de nossos clientes.",
+      "itemTitles": {
+        "empresa": "Especialistas em tecnologia",
+        "suporte": "Suporte dedicado",
+        "atendimento": "Atendimento direto"
+      }
+    },
+    "pageTitles": {
+      "sobre": "Sobre nós"
+    },
+    "about": {
+      "headerTitle": "Tecnologia, integração e inovação para empresas modernas",
+      "missionTitle": "Missão",
+      "visionTitle": "Visão",
+      "valuesTitle": "Nossos Valores",
+      "locationTitle": "Localização"
     }
   },
-  "pageTitles": {
-    "sobre": "Sobre nós"
-  },
-  "about": {
-    "headerTitle": "Tecnologia, inovação e consultoria para transformar negócios",
-    "missionTitle": "Missão",
-    "visionTitle": "Visão",
-    "valuesTitle": "Valores que nos movem",
-    "locationTitle": "Onde estamos"
-  }
-},
-
   "legal": {
     "privacy": {
       "lastUpdated": "27 de novembro de 2025",
       "sections": [
         {
           "title": "1. Introdução",
-          "body": "Esta Política de Privacidade explica como a CVFLOW SOLUCAO DIGITAL LTDA coleta, utiliza e protege dados pessoais de clientes e visitantes."
+          "body": "Esta Política de Privacidade explica como a Digibee Solucoes Tecnologia coleta, utiliza e protege dados pessoais."
         },
         {
           "title": "2. Dados coletados",
-          "body": "Coletamos dados como nome, telefone, e-mail e informações de contato fornecidas voluntariamente para fins de consultoria e serviços."
+          "body": "Coletamos nome, telefone, e-mail e informações fornecidas voluntariamente pelos usuários para contato e serviços tecnológicos."
         },
         {
           "title": "3. Uso das informações",
-          "body": "Os dados são utilizados para atendimento, orçamentos e comunicações comerciais relacionadas a serviços de TI e consultoria."
+          "body": "Os dados são utilizados para atendimento, suporte, consultas comerciais e prestação de serviços."
         },
         {
           "title": "4. Compartilhamento",
-          "body": "Não vendemos dados pessoais. Informações podem ser compartilhadas apenas com parceiros essenciais e conforme a lei."
+          "body": "Não vendemos dados pessoais. Informações podem ser compartilhadas apenas conforme a lei ou necessidade operacional."
         },
         {
           "title": "5. Segurança",
-          "body": "Adotamos medidas adequadas para proteger informações contra acessos não autorizados."
+          "body": "Aplicamos medidas apropriadas para proteger dados contra acesso não autorizado."
         },
         {
           "title": "6. Direitos do titular",
-          "body": "O titular pode solicitar alterações, exclusões ou informações pelo e-mail contato@cvflowdigital.online."
+          "body": "Você pode solicitar revisão, exclusão ou alterações de seus dados pelo e-mail contato@digibee.tech."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para dúvidas, envie uma mensagem ao encarregado de dados: contato@cvflowdigital.online."
+          "body": "Para dúvidas sobre privacidade, entre em contato via contato@digibee.tech."
         }
       ]
     },
@@ -149,19 +148,19 @@
       "sections": [
         {
           "title": "1. Aceite dos termos",
-          "body": "Ao acessar nossos canais, você concorda com estes Termos de Uso."
+          "body": "Ao acessar nossos serviços, você concorda com estes Termos de Uso."
         },
         {
           "title": "2. Uso adequado",
-          "body": "É proibido utilizar nossos conteúdos para fins ilícitos ou comprometer a segurança da plataforma."
+          "body": "É proibido utilizar nossos serviços para atividades ilícitas ou comprometimento da segurança."
         },
         {
           "title": "3. Propriedade intelectual",
-          "body": "Todo conteúdo apresentado, especialmente os relacionados aos softwares e consultorias, é protegido por direitos autorais."
+          "body": "Todo conteúdo e soluções tecnológicas são protegidos por direitos autorais."
         },
         {
           "title": "4. Limitação de responsabilidade",
-          "body": "Buscamos manter informações atualizadas, mas podem ocorrer alterações sem aviso prévio."
+          "body": "Buscamos fornecer informações precisas, porém alterações podem ocorrer sem aviso prévio."
         },
         {
           "title": "5. Atualizações",
@@ -169,7 +168,7 @@
         },
         {
           "title": "6. Foro",
-          "body": "Fica eleito o foro de Bauru/SP para resolução de eventuais disputas."
+          "body": "Fica eleito o foro de Vitória/ES para resolução de disputas."
         }
       ]
     },
@@ -178,31 +177,31 @@
       "sections": [
         {
           "title": "1. Introduction",
-          "body": "This Privacy Policy explains how CVFLOW SOLUCAO DIGITAL LTDA collects and protects personal data."
+          "body": "This Privacy Policy explains how Digibee Solucoes Tecnologia collects and protects personal data."
         },
         {
           "title": "2. Data Collected",
-          "body": "We collect contact information such as name, phone, and email when voluntarily provided for consultation and services."
+          "body": "We collect contact information such as name, phone and email when voluntarily provided."
         },
         {
           "title": "3. Use of Information",
-          "body": "Data is used for customer service, quotations, and commercial communication related to IT services and consulting."
+          "body": "Data is used for customer service, support and commercial communication."
         },
         {
           "title": "4. Sharing",
-          "body": "We do not sell personal data. Information is shared only when legally required or operationally necessary."
+          "body": "We do not sell personal data; sharing occurs only when necessary or legally required."
         },
         {
           "title": "5. Security",
-          "body": "We take reasonable measures to protect personal data."
+          "body": "We adopt reasonable measures to safeguard personal data."
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "Users may request corrections or deletion by contacting contato@cvflowdigital.online."
+          "body": "Users may request data changes or deletion via contato@digibee.tech."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For privacy matters, contact our Data Protection Officer via contato@cvflowdigital.online."
+          "body": "For privacy matters, contact our Data Protection Officer through contato@digibee.tech."
         }
       ]
     },
@@ -211,19 +210,19 @@
       "sections": [
         {
           "title": "1. Acceptance of Terms",
-          "body": "By accessing our channels, you agree to these Terms of Use."
+          "body": "By accessing our services, you agree to these Terms of Use."
         },
         {
           "title": "2. Proper Use",
-          "body": "It is forbidden to use our content for unlawful activities."
+          "body": "It is forbidden to use our services for unlawful purposes."
         },
         {
           "title": "3. Intellectual Property",
-          "body": "All displayed content, especially related to software and consulting, is protected by copyright."
+          "body": "All technological content and solutions are protected by copyright."
         },
         {
           "title": "4. Limitation of Liability",
-          "body": "Although we strive for accuracy, some information may change without notice."
+          "body": "While we strive for accuracy, information may change without notice."
         },
         {
           "title": "5. Updates",
@@ -231,7 +230,7 @@
         },
         {
           "title": "6. Jurisdiction",
-          "body": "The jurisdiction of Bauru/SP, Brazil is elected for dispute resolution."
+          "body": "The jurisdiction of Vitória/ES, Brazil, is elected for dispute resolution."
         }
       ]
     }

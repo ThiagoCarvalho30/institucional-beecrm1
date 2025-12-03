@@ -3,13 +3,17 @@
    =================================== */
 
 :root {
-  /* Cores baseadas na logo */
---color-primary: #0E1727; /* Azul Marinho Escuro */
-  --color-primary-light: #1A2C46; /* Variação do Primário */
-  --color-primary-dark: #080E16; /* Variação Mais Escura do Primário */
-  --color-accent: #33B5E5; /* Ciano/Verde Claro (Destaque da Seta) */
-  --color-accent-hover: #0099CC; /* Hover do Ciano */
+/* 💙 Cores baseadas no texto "Digbee" */
+  --color-primary: #0B305B;        /* Azul Marinho Escuro (Texto/Fundo Principal) */
+  --color-primary-light: #1A4676;  /* Variação do Primário (Mais claro, como um botão ou card) */
+  --color-primary-dark: #071E3B;   /* Variação Mais Escura do Primário (Fundo muito escuro) */
+
+  /* 💚 Cores baseadas no gradiente da abelha */
+  --color-accent: #98C94B;         /* Verde Limão (Cor de Destaque da Logo) */
+  --color-accent-hover: #7FB33C;   /* Hover do Verde Limão (Levemente mais escuro) */
   
+  /* 💎 Cor Secundária para o gradiente (opcional, mas útil para criar o efeito da logo) */
+  --color-secondary: #33B5E5;      /* Ciano/Azul Claro (O outro lado do gradiente da abelha) */
   --color-text-primary: #2a2a3e;
   --color-text-secondary: #5f6178;
   --color-text-muted: #8b8d9e;
